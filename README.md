@@ -1,0 +1,3 @@
+- Implementation to classify and extract the meaningful data from financial documents
+- For the data and other related information, please contact the author.
+- To understand the repository further, consider reading `Approach.md` and `Result.md`
